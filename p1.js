@@ -46,7 +46,7 @@ const checkwinner=()=>{
 
     }
 };
-let num=[1,2,3,4,5];
-num.forEach((www)=>{
-    console.log(www*www);
-});
+// let num=[1,2,3,4,5];
+// num.forEach((www)=>{
+//     console.log(www*www);
+// });
